@@ -1,0 +1,15 @@
+pyserial==2.6
+gdata==2.0.18
+requests==1.2.3
+xively-python==0.1.0-rc1
+cherrypy
+bottle
+plotly
+influxdb
+urllib3>=1.10
+six>=1.9
+certifi
+python-dateutil
+matplotlib
+PyQt5
+numpy
